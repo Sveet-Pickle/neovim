@@ -1,0 +1,14 @@
+{
+    "workspace.library": [
+        "/home/pickle/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/usr/share/nvim/runtime/lua",
+        "/home/pickle/.local/share/nvim/lazy/nvim-dap-ui/lua",
+        "/home/pickle/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/usr/share/nvim/runtime/lua",
+        "/home/pickle/.local/share/nvim/lazy/nvim-dap-ui/lua",
+        "/home/pickle/.config/nvim/lua",
+        "/home/pickle/.config/nvim/lua",
+        "${3rd}/luv/library"
+    ],
+    "completion.autoRequire": false
+}
