@@ -4,6 +4,7 @@ return {
 		require("autoclose").setup({
 			options = {
 				disable_when_touch = true,
+				disable_filetypes = { "text", "markdown" },
 			},
 		})
 	end,
